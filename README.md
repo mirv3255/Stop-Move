@@ -38,6 +38,7 @@ Export results for further GIS-based analysis.
 **Data**
 
 This project requires trajectory and OSM datasets for analysis. Please download the two datasets from the links below and place them in your Kolb repository. The download links will be added here later.
+
 https://drive.google.com/drive/folders/1J7GEUE6PK6t3R67967Nl12v3NEetZ-Tq?usp=sharing
 https://drive.google.com/drive/folders/1PC8laEumL6gdBXIV7OGEcdAgWGvsFR-B?usp=sharing
 
